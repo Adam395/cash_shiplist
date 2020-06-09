@@ -1,0 +1,136 @@
+#Module Import
+#--------------------------------------
+#General tools
+import pandas as pd 
+import numpy as np
+import os
+
+#Plotting tools
+import matplotlib.pyplot as plt 
+import seaborn as sbn
+#--------------------------------------
+#Global Dictionaries and Classifications
+
+#Dictionary of all manufacturers
+manufacturer_dict = {
+   'Aegis_Dynamics':aegis_dict,
+   'Anvil_Aerospace':anvil_dict,
+   'AopoA':aopoa_dict,
+   'ARGO_Astronautics':argo_dict,
+   'Banu_Souli':banu_dict,
+   'Consolidated_Outland':co_dict,
+   'Crusader_Industries':crusader_dict,
+   'Drake_Interplanetary':drake_dict,
+   'Esperia_Inc.':esperia_dict,
+   'Kruger_Intergalactic':kruger_dict,
+   'MISC':misc_dict,
+   'Origin_Jumpworks':origin_dict,
+   'Roberts Space Industries':rsi_dict
+}
+#--------------------------------------
+#Aegis Ship Data
+aegis_dict = {
+    'Avenger Stalker':{
+
+    },
+    'Avenger Titan':{
+
+    },
+    'Avenger Titan Renegade':{
+
+    },
+    'Avenger Trainer':'No Data', #This is not a consumer-available ship
+    'Avenger Warlock':{
+
+    },
+    'Cutter':'No Data', #This is a sub-module of the Reclaimer
+    'Eclipse':{
+
+    },
+    'Gladius':{
+
+    },
+    'Gladius Valiant':{
+
+    },
+    'Hammerhead':{
+
+    },
+    'Idris-K':{
+
+    },
+    'Idris-M':{
+        
+    },
+    'Idris-P':{
+
+    },
+    'Javelin':{
+
+    },
+    'Nautilus':{
+
+    },
+    'Reclaimer':{
+
+    },
+    'Redeemer':{
+
+    },
+    'Retaliator':{
+
+    },
+    'Retaliator Bomber':{
+
+    },
+    'Sabre'"{
+
+    },
+    'Sabre Comet':{
+
+    },
+    'Sabre Raven':{
+
+    },
+    'Vanguard Harbinger':{
+
+    },
+    'Vanguard Hoplite':{
+
+    },
+    'Vanguard Sentinel':{
+
+    },
+    'Vanguard Warden':{
+
+    },
+    'Vulcan':{
+
+    }
+
+}
+#------------------------------------
+#Anvil Ship Data
+anvil_dict = {}
+#------------------------------------
+#AopoA Ship Data
+aopoa_dict = {}
+#------------------------------------
+#Argo Ship Data
+argo_dict = {}
+#------------------------------------
+#Banu Ship Data
+banu_dict = {}
+#------------------------------------
+#Consolidated Outland Ship Data
+co_dict = {}
+#------------------------------------
+#Crusader Industries Ship Data
+crusader_dict = {}
+#------------------------------------
+drake_dict = {}
+   'Esperia_Inc.':esperia_dict,
+   'Kruger_Intergalactic':kruger_dict,
+   'MISC':misc_dict,
+   'Origin_Jumpworks':origin_dict,
+   'Roberts Space Industries':rsi_dict
