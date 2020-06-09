@@ -83,7 +83,7 @@ aegis_dict = {
     'Retaliator Bomber':{
 
     },
-    'Sabre'"{
+    'Sabre':{
 
     },
     'Sabre Comet':{
@@ -111,7 +111,66 @@ aegis_dict = {
 }
 #------------------------------------
 #Anvil Ship Data
-anvil_dict = {}
+anvil_dict = {
+    'Arrow':{
+
+    },
+    'C8 Pisces':{
+
+    },
+    'C8X Pisces Expedition':{
+
+    },
+    'Carrack':{
+
+    },
+    'Crucible':{
+
+    },
+    'DireHawk':'No Data',
+    'F7A':'No Data',
+    'F7A Hornet Mk II':'No Data',
+    'F7A-R Hornet Tracker':'No Data',
+    'F7C Hornet':{
+
+    },
+    'F7C Hornet Wildfire':{
+
+    },
+    'F7C-M Super Hornet':{
+
+    },
+    'F7C-R Hornet Tracker':{
+
+    },
+    'F7C-S Hornet Ghost':{
+
+    },
+    'F8A Lightning':'No Data',
+    'F8C Lightning':{
+
+    },
+    'F8C Lightning Executive':{
+
+    },
+    'Gladiator':{
+
+    },
+    'Hawk':{
+
+    },
+    'Hurricane':{
+
+    },
+    'ShadowHawk':'No Data',
+    'T8A Gladiator':'No Data',
+    'Terrapin':{
+
+    },
+    'Valkyrie':{
+
+    }
+}
 #------------------------------------
 #AopoA Ship Data
 aopoa_dict = {}
@@ -128,9 +187,21 @@ co_dict = {}
 #Crusader Industries Ship Data
 crusader_dict = {}
 #------------------------------------
+#Drake Ship Data
 drake_dict = {}
-   'Esperia_Inc.':esperia_dict,
-   'Kruger_Intergalactic':kruger_dict,
-   'MISC':misc_dict,
-   'Origin_Jumpworks':origin_dict,
-   'Roberts Space Industries':rsi_dict
+#------------------------------------
+#Esperia Ship Data
+esperia_dict = {}
+#------------------------------------
+#Kruger Intergalactic Ship Data
+kruger_dict = {}
+#------------------------------------
+#MISC Ship Data
+misc_dict = {}
+#------------------------------------
+#Origin Ship Data
+origin_dict = {}
+#------------------------------------
+#RSI Ship Data
+rsi_dict = {}
+#------------------------------------
