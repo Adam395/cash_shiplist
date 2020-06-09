@@ -1,0 +1,1802 @@
+[
+  {
+    "manufacturer": "Aegis",
+    "name": "Avenger Stalker",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Avenger Titan",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Avenger Titan",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Avenger Titan Renegade",
+    "lti": true,
+    "warbond": false,
+    "package_id": "10317915",
+    "pledge": "Standalone Ship - Avenger Titan Renegade - LTI",
+    "pledge_date": "November 25, 2016",
+    "cost": "$75.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Avenger Warlock",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Eclipse",
+    "lti": true,
+    "warbond": true,
+    "package_id": "13808934",
+    "pledge": "Standalone Ship - Aegis Eclipse LTI - Warbond Edition",
+    "pledge_date": "April 14, 2018",
+    "cost": "$250.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Gladius Valiant",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Hammerhead",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Hammerhead 2949 Best in Show",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Idris-M Frigate",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Idris-P Frigate",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Idris-P Frigate",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Javelin",
+    "lti": true,
+    "warbond": false,
+    "package_id": "4155358",
+    "pledge": "Standalone Ship - Aegis Javelin - LTI",
+    "pledge_date": "March 27, 2015",
+    "cost": "$2,400.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Nautilus ",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Reclaimer",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Reclaimer 2949 Best in Show",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Redeemer",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Retaliator Bomber",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Sabre",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Sabre",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Sabre Comet",
+    "lti": true,
+    "warbond": false,
+    "package_id": "10123811",
+    "pledge": "Standalone Ship - Sabre Comet - LTI",
+    "pledge_date": "November 21, 2016",
+    "cost": "$185.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Sabre Raven",
+    "lti": false,
+    "warbond": false,
+    "package_id": "13413219",
+    "pledge": "Package - AEGIS Sabre Raven ",
+    "pledge_date": "December 29, 2017",
+    "cost": "$0.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Sabre Raven",
+    "lti": false,
+    "warbond": false,
+    "package_id": "12931075",
+    "pledge": "Package - AEGIS Sabre Raven ",
+    "pledge_date": "November 09, 2017",
+    "cost": "$0.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Vanguard Harbinger",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Vanguard Hoplite",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Vanguard Warden",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Aegis",
+    "name": "Vulcan",
+    "lti": true,
+    "warbond": true,
+    "package_id": "13599064",
+    "pledge": "Standalone Ship - AEGIS Vulcan LTI Warbond VIP EARLY BIRD",
+    "pledge_date": "February 16, 2018",
+    "cost": "$185.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "Arrow",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "Arrow",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "Ballista",
+    "lti": true,
+    "warbond": true,
+    "package_id": "18431721",
+    "pledge": "Standalone Ship - Ballista - Warbond",
+    "pledge_date": "July 20, 2019",
+    "cost": "$120.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "Ballista Dunestalker",
+    "lti": true,
+    "warbond": true,
+    "package_id": "18437647",
+    "pledge": "Standalone Ship - Ballista Dunestalker Limited Edition - Warbond",
+    "pledge_date": "July 20, 2019",
+    "cost": "$125.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "Ballista Snowblind",
+    "lti": true,
+    "warbond": true,
+    "package_id": "18431720",
+    "pledge": "Standalone Ship - Ballista Snowblind Limited Edition - Warbond",
+    "pledge_date": "July 20, 2019",
+    "cost": "$125.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "Carrack",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "Carrack Expedition with Pisces Expedition",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "Crucible",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "F7C Hornet Wildfire",
+    "lti": true,
+    "warbond": false,
+    "package_id": "12973947",
+    "pledge": "Standalone Ship - F7C Hornet Wildfire - LTI",
+    "pledge_date": "November 18, 2017",
+    "cost": "$175.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "F7C-M Super Hornet",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "F7C-M Super Hornet",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "F7C-M Super Hornet",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "F7C-R Hornet Tracker",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "F7C-R Hornet Tracker",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "F7C-S Hornet Ghost",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "F7C-S Hornet Ghost",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "F8C Lightning Civilian ",
+    "lti": true,
+    "warbond": false,
+    "package_id": "15510975",
+    "pledge": "VIP Wing Commander",
+    "pledge_date": "August 10, 2018",
+    "cost": "$0.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "F8C Lightning Executive Edition",
+    "lti": true,
+    "warbond": false,
+    "package_id": "15510976",
+    "pledge": "VIP Legatus Navium",
+    "pledge_date": "August 10, 2018",
+    "cost": "$0.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "Gladiator",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "Gladiator",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "Hornet F7C-M Heartseeker",
+    "lti": false,
+    "warbond": false,
+    "package_id": "17643000",
+    "pledge": "Standalone Ship - Hornet F7C-M Heartseeker",
+    "pledge_date": "February 14, 2019",
+    "cost": "$195.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "Pisces - Expedition",
+    "lti": true,
+    "warbond": true,
+    "package_id": "19117652",
+    "pledge": "Standalone Ship - Anvil C8X Pisces Expedition - Warbond - IAE 2949",
+    "pledge_date": "November 24, 2019",
+    "cost": "$40.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "Terrapin",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "Terrapin",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "Valkyrie ",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Anvil",
+    "name": "Valkyrie Liberator Edition ",
+    "lti": true,
+    "warbond": false,
+    "package_id": "15735336",
+    "pledge": "Standalone Ship - Valkyrie Liberator WB",
+    "pledge_date": "October 10, 2018",
+    "cost": "$330.00 USD"
+  },
+  {
+    "manufacturer": "Aopoa",
+    "name": "Aopoa San'tok.yāi",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Aopoa",
+    "name": "Nox",
+    "lti": true,
+    "warbond": false,
+    "package_id": "13414794",
+    "pledge": "Add-Ons - Deluxe Ground Vehicle Pack LTI VIP",
+    "pledge_date": "December 29, 2017",
+    "cost": "$725.00 USD"
+  },
+  {
+    "manufacturer": "Aopoa",
+    "name": "Nox Kue",
+    "lti": true,
+    "warbond": false,
+    "package_id": "13414794",
+    "pledge": "Add-Ons - Deluxe Ground Vehicle Pack LTI VIP",
+    "pledge_date": "December 29, 2017",
+    "cost": "$725.00 USD"
+  },
+  {
+    "manufacturer": "Argo",
+    "name": "Argo Mole",
+    "lti": true,
+    "warbond": false,
+    "package_id": "9072463",
+    "pledge": "Standalone Ship - MISC Prospector",
+    "pledge_date": "April 22, 2016",
+    "cost": "$300.00 USD"
+  },
+  {
+    "manufacturer": "Banu",
+    "name": "Defender",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Banu",
+    "name": "Merchantman",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Banu",
+    "name": "Merchantman",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Consolidated",
+    "name": "Consolidated Outland Pioneer",
+    "lti": true,
+    "warbond": true,
+    "package_id": "12866630",
+    "pledge": "Standalone Ship - Consolidate Outland Pioneer lti Warbond VIP",
+    "pledge_date": "October 26, 2017",
+    "cost": "$750.00 USD"
+  },
+  {
+    "manufacturer": "Consolidated",
+    "name": "Mustang Alpha Vindicator",
+    "lti": false,
+    "warbond": false,
+    "package_id": "15693105",
+    "pledge": "Standalone Ship - Mustang Vindicator CC2948 Promotion",
+    "pledge_date": "October 10, 2018",
+    "cost": "$28.50 USD"
+  },
+  {
+    "manufacturer": "Consolidated",
+    "name": "Mustang Beta",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Consolidated",
+    "name": "Mustang Delta",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Consolidated",
+    "name": "Mustang Gamma",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Consolidated",
+    "name": "Mustang Omega : AMD Edition",
+    "lti": false,
+    "warbond": false,
+    "package_id": "2626676",
+    "pledge": "Package - AMD Never Settle Space Edition",
+    "pledge_date": "October 09, 2014",
+    "cost": "$0.00 USD"
+  },
+  {
+    "manufacturer": "Crusader",
+    "name": "Crusader Ares Inferno",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Crusader",
+    "name": "Crusader Mercury Star Runner",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Crusader",
+    "name": "Genesis Starliner",
+    "lti": true,
+    "warbond": false,
+    "package_id": "10026819",
+    "pledge": "Standalone Ship - Genesis Starliner - LTI",
+    "pledge_date": "November 12, 2016",
+    "cost": "$400.00 USD"
+  },
+  {
+    "manufacturer": "Crusader",
+    "name": "Hercules Starlifter A2",
+    "lti": true,
+    "warbond": true,
+    "package_id": "15127967",
+    "pledge": "Add-Ons - Hercules Complete Pack Warbond",
+    "pledge_date": "May 04, 2018",
+    "cost": "$1,223.53 USD"
+  },
+  {
+    "manufacturer": "Crusader",
+    "name": "Hercules Starlifter C2",
+    "lti": true,
+    "warbond": true,
+    "package_id": "15127967",
+    "pledge": "Add-Ons - Hercules Complete Pack Warbond",
+    "pledge_date": "May 04, 2018",
+    "cost": "$1,223.53 USD"
+  },
+  {
+    "manufacturer": "Crusader",
+    "name": "Hercules Starlifter M2",
+    "lti": true,
+    "warbond": true,
+    "package_id": "15127967",
+    "pledge": "Add-Ons - Hercules Complete Pack Warbond",
+    "pledge_date": "May 04, 2018",
+    "cost": "$1,223.53 USD"
+  },
+  {
+    "manufacturer": "Crusader",
+    "name": "Hercules Starlifter M2",
+    "lti": true,
+    "warbond": true,
+    "package_id": "15127966",
+    "pledge": "Add-Ons - M2 Hercules Warbond",
+    "pledge_date": "May 04, 2018",
+    "cost": "$376.47 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Buccaneer",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Caterpillar",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Caterpillar 2949 Best in Show",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Corsair",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Cutlass 2949 Best In Show",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Cutlass Black",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Cutlass Black",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Cutlass Blue",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Cutlass Blue",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Cutlass Blue",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Cutlass Blue",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Cutlass Red",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Cutlass Red",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Dragonfly Black",
+    "lti": true,
+    "warbond": false,
+    "package_id": "13414794",
+    "pledge": "Add-Ons - Deluxe Ground Vehicle Pack LTI VIP",
+    "pledge_date": "December 29, 2017",
+    "cost": "$725.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Dragonfly Black",
+    "lti": true,
+    "warbond": false,
+    "package_id": "9279214",
+    "pledge": "Standalone Ship - Drake Dragonfly Ride Together Two-Pack",
+    "pledge_date": "June 17, 2016",
+    "cost": "$65.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Dragonfly Black",
+    "lti": true,
+    "warbond": false,
+    "package_id": "9279213",
+    "pledge": "Standalone Ship - Drake Dragonfly Ride Together Two-Pack",
+    "pledge_date": "June 17, 2016",
+    "cost": "$65.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Dragonfly Yellowjacket",
+    "lti": true,
+    "warbond": false,
+    "package_id": "13414794",
+    "pledge": "Add-Ons - Deluxe Ground Vehicle Pack LTI VIP",
+    "pledge_date": "December 29, 2017",
+    "cost": "$725.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Dragonfly Yellowjacket",
+    "lti": true,
+    "warbond": false,
+    "package_id": "9279214",
+    "pledge": "Standalone Ship - Drake Dragonfly Ride Together Two-Pack",
+    "pledge_date": "June 17, 2016",
+    "cost": "$65.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Dragonfly Yellowjacket",
+    "lti": true,
+    "warbond": false,
+    "package_id": "9279213",
+    "pledge": "Standalone Ship - Drake Dragonfly Ride Together Two-Pack",
+    "pledge_date": "June 17, 2016",
+    "cost": "$65.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Herald",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Kraken Privateer",
+    "lti": true,
+    "warbond": true,
+    "package_id": "19360117",
+    "pledge": "Standalone Ship - Drake Kraken Privateer - Warbond - IAE 2949",
+    "pledge_date": "November 30, 2019",
+    "cost": "$1,700.00 USD"
+  },
+  {
+    "manufacturer": "Drake",
+    "name": "Vulture",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Esperia",
+    "name": "Blade",
+    "lti": true,
+    "warbond": false,
+    "package_id": "12866685",
+    "pledge": "Standalone Ship - Esperia Vanduul Blade",
+    "pledge_date": "October 26, 2017",
+    "cost": "$250.00 USD"
+  },
+  {
+    "manufacturer": "Esperia",
+    "name": "Prowler",
+    "lti": true,
+    "warbond": false,
+    "package_id": "10038697",
+    "pledge": "Standalone Ship - Esperia Prowler - LTI",
+    "pledge_date": "November 18, 2016",
+    "cost": "$425.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Endeavor",
+    "lti": true,
+    "warbond": false,
+    "package_id": "10026826",
+    "pledge": "Standalone Ship - Endeavor Master Set - LTI",
+    "pledge_date": "November 12, 2016",
+    "cost": "$900.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Endeavor",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Freelancer DUR",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Freelancer DUR",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Freelancer MAX",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Freelancer MAX",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Freelancer MIS",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Freelancer MIS",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Hull A",
+    "lti": true,
+    "warbond": false,
+    "package_id": "4595669",
+    "pledge": "Combo - Hull-a-palooza Pack - LTI",
+    "pledge_date": "April 25, 2015",
+    "cost": "$1,275.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Hull B",
+    "lti": true,
+    "warbond": false,
+    "package_id": "4595669",
+    "pledge": "Combo - Hull-a-palooza Pack - LTI",
+    "pledge_date": "April 25, 2015",
+    "cost": "$1,275.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Hull C",
+    "lti": true,
+    "warbond": false,
+    "package_id": "4595669",
+    "pledge": "Combo - Hull-a-palooza Pack - LTI",
+    "pledge_date": "April 25, 2015",
+    "cost": "$1,275.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Hull C",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Hull D",
+    "lti": true,
+    "warbond": false,
+    "package_id": "4595669",
+    "pledge": "Combo - Hull-a-palooza Pack - LTI",
+    "pledge_date": "April 25, 2015",
+    "cost": "$1,275.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Hull E",
+    "lti": true,
+    "warbond": false,
+    "package_id": "4595669",
+    "pledge": "Combo - Hull-a-palooza Pack - LTI",
+    "pledge_date": "April 25, 2015",
+    "cost": "$1,275.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Razor",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Razor EX",
+    "lti": true,
+    "warbond": true,
+    "package_id": "15209160",
+    "pledge": "Add-Ons - MISC Razor Dual Pack May Promotion - Warbond",
+    "pledge_date": "May 25, 2018",
+    "cost": "$270.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Razor LX",
+    "lti": true,
+    "warbond": true,
+    "package_id": "15209160",
+    "pledge": "Add-Ons - MISC Razor Dual Pack May Promotion - Warbond",
+    "pledge_date": "May 25, 2018",
+    "cost": "$270.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Reliant Kore - Mini Hauler",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Reliant Mako - News Van",
+    "lti": true,
+    "warbond": false,
+    "package_id": "4595669",
+    "pledge": "Combo - Hull-a-palooza Pack - LTI",
+    "pledge_date": "April 25, 2015",
+    "cost": "$1,275.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Reliant Sen - Researcher",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Starfarer",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "MISC",
+    "name": "Starfarer Gemini",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "100i",
+    "lti": true,
+    "warbond": true,
+    "package_id": "13799177",
+    "pledge": "Add-Ons - Origin 100 Series Pack Warbond",
+    "pledge_date": "April 12, 2018",
+    "cost": "$135.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "125a",
+    "lti": true,
+    "warbond": true,
+    "package_id": "13799177",
+    "pledge": "Add-Ons - Origin 100 Series Pack Warbond",
+    "pledge_date": "April 12, 2018",
+    "cost": "$135.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "135c",
+    "lti": true,
+    "warbond": true,
+    "package_id": "13799177",
+    "pledge": "Add-Ons - Origin 100 Series Pack Warbond",
+    "pledge_date": "April 12, 2018",
+    "cost": "$135.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "315p Explorer",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "325a Fighter",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "325a Fighter",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "350r Racer",
+    "lti": true,
+    "warbond": false,
+    "package_id": "18260046",
+    "pledge": "Standalone Ship - Origin 350r Racer - LTI",
+    "pledge_date": "June 07, 2019",
+    "cost": "$139.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "350r Racer",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "600i Executive Edition",
+    "lti": true,
+    "warbond": false,
+    "package_id": "21685349",
+    "pledge": "VIP Legatus2",
+    "pledge_date": "April 26, 2020",
+    "cost": "$0.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "600i Exploration Module",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "600i Touring Module",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "85X",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "85X",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "890 JUMP",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "890 JUMP",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "G12",
+    "lti": true,
+    "warbond": true,
+    "package_id": "21931256",
+    "pledge": "Add-Ons - G12 Triple Threat - Warbond - Presale",
+    "pledge_date": "May 21, 2020",
+    "cost": "$155.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "M50",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "M50",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "X1",
+    "lti": true,
+    "warbond": false,
+    "package_id": "13414794",
+    "pledge": "Add-Ons - Deluxe Ground Vehicle Pack LTI VIP",
+    "pledge_date": "December 29, 2017",
+    "cost": "$725.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "X1 - FORCE",
+    "lti": true,
+    "warbond": false,
+    "package_id": "13414794",
+    "pledge": "Add-Ons - Deluxe Ground Vehicle Pack LTI VIP",
+    "pledge_date": "December 29, 2017",
+    "cost": "$725.00 USD"
+  },
+  {
+    "manufacturer": "Origin",
+    "name": "X1 - VELOCITY",
+    "lti": true,
+    "warbond": false,
+    "package_id": "13414794",
+    "pledge": "Add-Ons - Deluxe Ground Vehicle Pack LTI VIP",
+    "pledge_date": "December 29, 2017",
+    "cost": "$725.00 USD"
+  },
+  {
+    "manufacturer": "RSI",
+    "name": "Apollo Medivac",
+    "lti": false,
+    "warbond": false,
+    "package_id": "15415528",
+    "pledge": "Standalone Ship - RSI Apollo Medivac",
+    "pledge_date": "July 20, 2018",
+    "cost": "$275.00 USD"
+  },
+  {
+    "manufacturer": "RSI",
+    "name": "Aurora LX",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "RSI",
+    "name": "Aurora LX",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "RSI",
+    "name": "Aurora LX",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "RSI",
+    "name": "Aurora MR",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "RSI",
+    "name": "Constellation Andromeda",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "RSI",
+    "name": "Constellation Andromeda",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "RSI",
+    "name": "Constellation Aquila",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "RSI",
+    "name": "Constellation Phoenix",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "RSI",
+    "name": "Constellation Phoenix Emerald",
+    "lti": true,
+    "warbond": true,
+    "package_id": "13677751",
+    "pledge": "Standalone Ship - RSI Constellation Phoenix Emerald - Warbond - St Patrick's Day Special",
+    "pledge_date": "March 16, 2018",
+    "cost": "$350.00 USD"
+  },
+  {
+    "manufacturer": "RSI",
+    "name": "Mantis",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3389393",
+    "pledge": "Combo - War Pack - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$6,865.00 USD"
+  },
+  {
+    "manufacturer": "RSI",
+    "name": "Orion",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "RSI",
+    "name": "Polaris",
+    "lti": true,
+    "warbond": false,
+    "package_id": "9832602",
+    "pledge": "Standalone Ship - RSI Polaris - LTI War Bond Presale",
+    "pledge_date": "October 08, 2016",
+    "cost": "$625.00 USD"
+  },
+  {
+    "manufacturer": "RSI",
+    "name": "Ursa Rover",
+    "lti": true,
+    "warbond": false,
+    "package_id": "13414794",
+    "pledge": "Add-Ons - Deluxe Ground Vehicle Pack LTI VIP",
+    "pledge_date": "December 29, 2017",
+    "cost": "$725.00 USD"
+  },
+  {
+    "manufacturer": "RSI",
+    "name": "Ursa Rover",
+    "lti": true,
+    "warbond": false,
+    "package_id": "9544828",
+    "pledge": "Add-Ons - Ursa Rover",
+    "pledge_date": "August 21, 2016",
+    "cost": "$50.00 USD"
+  },
+  {
+    "manufacturer": "RSI",
+    "name": "Ursa Rover Fortuna",
+    "lti": false,
+    "warbond": false,
+    "package_id": "17807451",
+    "pledge": "Standalone Ship - Ursa Rover Fortuna",
+    "pledge_date": "March 15, 2019",
+    "cost": "$55.00 USD"
+  },
+  {
+    "manufacturer": "RSI",
+    "name": "Ursa Rover Fortuna",
+    "lti": false,
+    "warbond": false,
+    "package_id": "17807450",
+    "pledge": "Standalone Ship - Ursa Rover Fortuna",
+    "pledge_date": "March 15, 2019",
+    "cost": "$55.00 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Cyclone",
+    "lti": true,
+    "warbond": false,
+    "package_id": "15175807",
+    "pledge": "Add-Ons - Tumbril Cyclone Pack LTI Presale",
+    "pledge_date": "May 12, 2018",
+    "cost": "$230.00 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Cyclone",
+    "lti": true,
+    "warbond": true,
+    "package_id": "15127967",
+    "pledge": "Add-Ons - Hercules Complete Pack Warbond",
+    "pledge_date": "May 04, 2018",
+    "cost": "$1,223.53 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Cyclone",
+    "lti": true,
+    "warbond": true,
+    "package_id": "15127966",
+    "pledge": "Add-Ons - M2 Hercules Warbond",
+    "pledge_date": "May 04, 2018",
+    "cost": "$376.47 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Cyclone",
+    "lti": true,
+    "warbond": false,
+    "package_id": "13414794",
+    "pledge": "Add-Ons - Deluxe Ground Vehicle Pack LTI VIP",
+    "pledge_date": "December 29, 2017",
+    "cost": "$725.00 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Cyclone AA",
+    "lti": true,
+    "warbond": false,
+    "package_id": "15175807",
+    "pledge": "Add-Ons - Tumbril Cyclone Pack LTI Presale",
+    "pledge_date": "May 12, 2018",
+    "cost": "$230.00 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Cyclone AA",
+    "lti": true,
+    "warbond": false,
+    "package_id": "13414794",
+    "pledge": "Add-Ons - Deluxe Ground Vehicle Pack LTI VIP",
+    "pledge_date": "December 29, 2017",
+    "cost": "$725.00 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Cyclone RC",
+    "lti": true,
+    "warbond": false,
+    "package_id": "15175807",
+    "pledge": "Add-Ons - Tumbril Cyclone Pack LTI Presale",
+    "pledge_date": "May 12, 2018",
+    "cost": "$230.00 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Cyclone RC",
+    "lti": true,
+    "warbond": false,
+    "package_id": "13414794",
+    "pledge": "Add-Ons - Deluxe Ground Vehicle Pack LTI VIP",
+    "pledge_date": "December 29, 2017",
+    "cost": "$725.00 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Cyclone RN",
+    "lti": true,
+    "warbond": false,
+    "package_id": "15175807",
+    "pledge": "Add-Ons - Tumbril Cyclone Pack LTI Presale",
+    "pledge_date": "May 12, 2018",
+    "cost": "$230.00 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Cyclone RN",
+    "lti": true,
+    "warbond": false,
+    "package_id": "13414794",
+    "pledge": "Add-Ons - Deluxe Ground Vehicle Pack LTI VIP",
+    "pledge_date": "December 29, 2017",
+    "cost": "$725.00 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Cyclone-TR",
+    "lti": true,
+    "warbond": false,
+    "package_id": "15175807",
+    "pledge": "Add-Ons - Tumbril Cyclone Pack LTI Presale",
+    "pledge_date": "May 12, 2018",
+    "cost": "$230.00 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Cyclone-TR",
+    "lti": true,
+    "warbond": false,
+    "package_id": "13414794",
+    "pledge": "Add-Ons - Deluxe Ground Vehicle Pack LTI VIP",
+    "pledge_date": "December 29, 2017",
+    "cost": "$725.00 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Nova Tank",
+    "lti": true,
+    "warbond": true,
+    "package_id": "18595431",
+    "pledge": "Standalone Ship - Tumbril Nova Tank lti Warbond",
+    "pledge_date": "August 28, 2019",
+    "cost": "$95.00 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Nova Tank",
+    "lti": true,
+    "warbond": true,
+    "package_id": "15127967",
+    "pledge": "Add-Ons - Hercules Complete Pack Warbond",
+    "pledge_date": "May 04, 2018",
+    "cost": "$1,223.53 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Nova Tank",
+    "lti": true,
+    "warbond": false,
+    "package_id": "13414794",
+    "pledge": "Add-Ons - Deluxe Ground Vehicle Pack LTI VIP",
+    "pledge_date": "December 29, 2017",
+    "cost": "$725.00 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Ranger CV",
+    "lti": true,
+    "warbond": true,
+    "package_id": "18165626",
+    "pledge": "Add-Ons - Sons of Centauri Pack Warbond   ",
+    "pledge_date": "May 10, 2019",
+    "cost": "$85.00 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Ranger RC",
+    "lti": false,
+    "warbond": false,
+    "package_id": "18246251",
+    "pledge": "Standalone Ship - Tumbril Ranger RC",
+    "pledge_date": "June 03, 2019",
+    "cost": "$35.00 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Ranger RC",
+    "lti": true,
+    "warbond": true,
+    "package_id": "18165626",
+    "pledge": "Add-Ons - Sons of Centauri Pack Warbond   ",
+    "pledge_date": "May 10, 2019",
+    "cost": "$85.00 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Ranger TR",
+    "lti": false,
+    "warbond": false,
+    "package_id": "18246250",
+    "pledge": "Standalone Ship - Tumbril Ranger TR ",
+    "pledge_date": "June 03, 2019",
+    "cost": "$40.00 USD"
+  },
+  {
+    "manufacturer": "Tumbril",
+    "name": "Ranger TR",
+    "lti": true,
+    "warbond": true,
+    "package_id": "18165626",
+    "pledge": "Add-Ons - Sons of Centauri Pack Warbond   ",
+    "pledge_date": "May 10, 2019",
+    "cost": "$85.00 USD"
+  },
+  {
+    "manufacturer": "Vanduul",
+    "name": "Captured Vanduul Scythe",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Vanduul",
+    "name": "Glaive",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  },
+  {
+    "manufacturer": "Xi'an",
+    "name": "Khartu-al",
+    "lti": true,
+    "warbond": false,
+    "package_id": "3388812",
+    "pledge": "Combo - The Completionist - Digital",
+    "pledge_date": "December 22, 2014",
+    "cost": "$17,161.00 USD"
+  }
+]

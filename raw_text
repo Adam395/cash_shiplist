@@ -10,7 +10,45 @@ import matplotlib.pyplot as plt
 import seaborn as sbn
 #--------------------------------------
 #Global Dictionaries and Classifications
-
+#--------------------------------------
+#Hull Sizes Dict
+hullsize = {
+    '1':'Single Seat',
+    '2':'Multi Crew',
+    '3':'Capital'
+}
+#--------------------------------------
+#Ship Classes Dict
+classes = {
+    'co':'Combat',
+    'm':'Mining',
+    's':'Salvage',
+    'h':'Hospital/Medical',
+    'g':'Gas Mining',
+    'e':'Exploration/Science',
+    't':'Passenger Transport/Touring',
+    'd':'Data Running',
+    'ca':'Cargo Transport',
+    're':'Repair',
+    'b':'Building/Construction',
+    'ra':'Racing',
+    'v':'Vendor/Market'
+}
+#--------------------------------------
+#Subclasses Dict
+subclasses = {
+    'f':'Fighter',
+    'b':'Bomber',
+    'i':'Interdictor',
+    'c':'Carrier',
+    'd':'Destroyer',
+    's':'Stealth',
+    'e':'EMP Enabled',
+    'q':'Quantum Dampener Enabled',
+    'p':'Personnel/Dropship',
+    'j':'Single Hangar Bay'
+}
+#--------------------------------------
 #Dictionary of all manufacturers
 manufacturer_dict = {
    'Aegis_Dynamics':aegis_dict,
@@ -31,45 +69,77 @@ manufacturer_dict = {
 #Aegis Ship Data
 aegis_dict = {
     'Avenger Stalker':{
-
+        'Size':hullsize['1'],
+        'Class':classes['co'],
+        'Subclass':subclasses['f']
     },
     'Avenger Titan':{
-
+        'Size':hullsize['1'],
+        'Class':classes['ca'],
+        'Subclass':subclasses['f']
     },
     'Avenger Titan Renegade':{
-
+        'Size':hullsize['1'],
+        'Class':classes['ca'],
+        'Subclass':subclasses['f']
     },
     'Avenger Trainer':'No Data', #This is not a consumer-available ship
     'Avenger Warlock':{
-
+        'Size':hullsize['1'],
+        'Class':classes['co'],
+        'Subclass':[subclasses['e'],
+        subclasses['i'],
+        subclasses['f']]
     },
     'Cutter':'No Data', #This is a sub-module of the Reclaimer
     'Eclipse':{
-
+        'Size':hullsize['1'],
+        'Class':classes['co'],
+        'Subclass':[subclasses['b'],
+        subclasses['s']]
     },
     'Gladius':{
-
+        'Size':hullsize['1'],
+        'Class':classes['co'],
+        'Subclass':subclasses['f']
     },
     'Gladius Valiant':{
-
+        'Size':hullsize['1'],
+        'Class':classes['co'],
+        'Subclass':subclasses['f']
     },
     'Hammerhead':{
-
+        'Size':hullsize['3'],
+        'Class':classes['co'],
+        'Subclass':[subclasses['d'],
+        subclasses['p']]
     },
     'Idris-K':{
-
+        'Size':hullsize['3'],
+        'Class':classes['co'],
+        'Subclass':[subclasses['c'],
+        subclasses['d']]
     },
     'Idris-M':{
-        
+        'Size':hullsize['3'],
+        'Class':classes['co'],
+        'Subclass':[subclasses['c'],
+        subclasses['d']]
     },
     'Idris-P':{
-
+        'Size':hullsize['3'],
+        'Class':classes['co'],
+        'Subclass':[subclasses['c'],
+        subclasses['d']]
     },
     'Javelin':{
-
+        'Size':hullsize['3'],
+        'Class':classes['co'],
+        'Subclass':[subclasses['j'],
+        subclasses['d']]
     },
     'Nautilus':{
-
+        'Size':
     },
     'Reclaimer':{
 
@@ -173,35 +243,395 @@ anvil_dict = {
 }
 #------------------------------------
 #AopoA Ship Data
-aopoa_dict = {}
+aopoa_dict = {
+    'Khartu-al':{
+
+    },
+    'Nox':{
+
+    },
+    'Nox Kue':{
+
+    },
+    'Qhire Khartu':'No Data',
+    "San'tok.yal":'No Data'
+}
 #------------------------------------
 #Argo Ship Data
-argo_dict = {}
+argo_dict = {
+    'MOLE':{
+
+    },
+    'MPUV-1C':{
+
+    },
+    'MPUV-1P':{
+
+    },
+    'MPUV-1S':{
+
+    },
+    'OUC':'No Data',
+    'SRV':{
+
+    }
+}
 #------------------------------------
 #Banu Ship Data
-banu_dict = {}
+banu_dict = {
+    'Defender':{
+
+    },
+    'Merchantman':{
+
+    }
+}
 #------------------------------------
 #Consolidated Outland Ship Data
-co_dict = {}
+co_dict = {
+    'Mustang Alpha':{
+
+    },
+    'Mustang Beta':{
+
+    },
+    'Mustang Delta':{
+
+    },
+    'Mustang Gamma':{
+
+    },
+    'Mustang Omega':{
+
+    },
+    'Pioneer':{
+
+    }
+}
 #------------------------------------
 #Crusader Industries Ship Data
-crusader_dict = {}
+crusader_dict = {
+    'A2 Hercules':{
+
+    },
+    'Ares Inferno':{
+
+    },
+    'Ares Ion':{
+
+    },
+    'C2 Hercules':{
+
+    },
+    'Genesis Starhunter':'No Data',
+    'Genesis Starliner':{
+
+    },
+    'Genesis Starseeker':'No Data',
+    'M2 Hercules':{
+
+    },
+    'Mercury Star Runner':{
+
+    }
+}
 #------------------------------------
 #Drake Ship Data
-drake_dict = {}
+drake_dict = {
+    'Buccaneer':{
+
+    },
+    'Caterpillar':{
+
+    },
+    'Corsair':{
+
+    },
+    'Cutlass Black':{
+
+    },
+    'Cutlass Blue':{
+
+    },
+    'Cutlass Red':{
+
+    },
+    'Dragonfly Black':{
+
+    },
+    'Dragonfly Yellow':{
+
+    },
+    'Herald':{
+
+    },
+    'Kraken':{
+
+    },
+    'Kraken Privateer':{
+
+    },
+    'Vulture':{
+
+    }
+}
 #------------------------------------
 #Esperia Ship Data
-esperia_dict = {}
+esperia_dict = {
+    'Blade':{
+
+    },
+    'Glaive':{
+
+    },
+    'Prowler':{
+
+    },
+    'Scythe':{
+
+    }
+}
 #------------------------------------
 #Kruger Intergalactic Ship Data
-kruger_dict = {}
+kruger_dict = {
+    'P-52 Merlin':{
+
+    },
+    'P-72 Archimedes':{
+
+    }
+}
 #------------------------------------
 #MISC Ship Data
-misc_dict = {}
+misc_dict = {
+    'Endeavor':{
+
+    },
+    'Freelancer':{
+
+    },
+    'Freelancer DUR':{
+
+    },
+    'Freelancer MAX':{
+
+    },
+    'Freelancer MIS':{
+
+    },
+    'Hull A':{
+
+    },
+    'Hull B':{
+
+    },
+    'Hull C':{
+
+    },
+    'Hull D':{
+
+    },
+    'Hull E':{
+
+    },
+    'Prospector':{
+
+    },
+    'Razor':{
+
+    },
+    'Razor EX':{
+
+    },
+    'Razor LX':{
+
+    },
+    'Reliant Kore':{
+
+    },
+    'Reliant Mako':{
+
+    },
+    'Reliant Sen':{
+
+    },
+    'Reliant Tana':{
+
+    },
+    'Starfarer':{
+
+    },
+    'Starfarer Gemini':{
+
+    }
+}
 #------------------------------------
 #Origin Ship Data
-origin_dict = {}
+origin_dict = {
+    '100i':{
+
+    },
+    '125a':{
+
+    },
+    '135c':{
+
+    },
+    '300i':{
+
+    },
+    '315p':{
+
+    },
+    '325a':{
+
+    },
+    '350r':{
+
+    },
+    '600i Touring':{
+
+    },
+    '600i Explorer':{
+
+    },
+    '600i Executive':{
+
+    },
+    '85x':{
+
+    },
+    '890 Jump':{
+
+    },
+    'M50':{
+
+    },
+    'X1':{
+
+    },
+    'X1 Force':{
+
+    },
+    'X1 Velocity':{
+
+    }
+}
 #------------------------------------
 #RSI Ship Data
-rsi_dict = {}
+rsi_dict = {
+    'Apollo Medivac':{
+
+    },
+    'Apollo Triage':{
+
+    },
+    'Aurora CL':{
+
+    },
+    'Aurora ES':{
+
+    },
+    'Aurora LN':{
+
+    },
+    'Aurora LX':{
+
+    },
+    'Aurora MR':{
+
+    },
+    'Bengal':'No Data',
+    'Constellation Andromeda':{
+
+    },
+    'Constellation Aquila':{
+
+    },
+    'Constellation Phoenix':{
+
+    },
+    'Constellation Taurus':{
+    
+    },
+    'Mantis':{
+
+    },
+    'Orion':{
+
+    },
+    'Pegasus':'No Data',
+    'Polaris':{
+
+    }
+}
 #------------------------------------
+#Module Imports
+#General tools
+import pandas as pd 
+import numpy as np
+import os
+
+#Plotting tools
+import matplotlib.pyplot as plt 
+import seaborn as sbn
+#------------------------------------
+#Master Exporter Function
+def create_shiplist():
+    #Define global variables:
+    all_ships = pd.DataFrame() #Generates a blank dataframe to concatenate data to.
+    curr_date = pd.to_datetime('today').date() #Defines "current date" variable for use throughout function, such as export title.
+    n = input('What is # of last CSV?') #User input for number of .csvs being input. Should be the largest integer on input csvs.
+    
+    #Define all the mini-functions:
+    #Import Xplorer CSV from data folder
+    def csv_import(int): #Takes integer N from input statement above later
+        df = pd.read_csv(f'./data/shiplist_{int}.csv') #generates a temporary dataframe from the csv
+        return df #Passes dataframe out for manipulation
+    #Concatenate imported ships
+    def df_concat(all_ships, df):
+        ship_df = pd.concat([all_ships, df], ignore_index=True) #concatenates temp dataframe to global all_ships df
+        return ship_df
+    #Add engineered column to dataframe
+    def engineer_column(df):
+        df['Date_Generated'] = curr_date #Creates new column 'Date_Generated' consisting of the date the query was run. 
+        df['Date_Generated'] = df['Date_Generated'].astype('datetime64[ns]') #Converts default string type object to datetime object.
+        return df
+    #Remove spaces from column headers
+    def remove_spaces(df):
+        df.columns.str.replace(' ','') #EDA revealed default CSV output includes hidden spaces in headers. Removes the spaces.
+        return df
+    #Convert date string to datetime object
+    def date_to_datetime(df):
+        df[' Date'] = df[' Date'].astype('datetime64[ns]') #EDA revealed default CSV uses string object for date. Converts to datetime.
+        return df
+    #Convert cost column to float object
+    def cost_to_float(df):
+        df[' Cost'] = df[' Cost'].replace('[^.0-9]','',regex=True,inplace = False).astype(float) #Converts Cost column to float value.
+        return df
+
+    #End definition of mini-functions
+
+    #DF generator block
+    for x in range(0,int(n)): #Iterates for every .csv file in data folder.
+        df = csv_import(x)
+        all_ships = df_concat(all_ships, df)
+    all_ships = engineer_column(all_ships)
+
+    #Cleaner block
+    all_ships = date_to_datetime(all_ships)
+    all_ships = cost_to_float(all_ships)
+    all_ships = remove_spaces(all_ships)
+    all_ships = all_ships.sort_values('Manufacturer', ascending = True)
+    all_ships = all_ships.reset_index(drop = True)
+    
+
+    #Exporter block
+    if os.path.exists(f"./data/allships_history/allships_{curr_date}.csv") == True: #Check if file exists.
+        overwrite_check = input ("File already exists--do you want to overwrite? (y/n)") #Prompt for overwrite confirmation
+        if str.lower(overwrite_check) != 'y': #If user uses any value except y, the function will skip exporting.
+            pass
+        else:
+            all_ships.to_csv(f"./data/allships_history/allships_{curr_date}.csv", index = False)
+
+    return all_ships
