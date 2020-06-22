@@ -36,6 +36,7 @@ classes = {
 }
 #--------------------------------------
 #Subclasses Dict
+#Additional subclasses can be added here
 subclasses = {
     'f':'Fighter',
     'b':'Bomber',
@@ -71,113 +72,137 @@ aegis_dict = {
     'Avenger Stalker':{
         'Size':hullsize['1'],
         'Class':classes['co'],
-        'Subclass':subclasses['f']
+        'Subclass':[subclasses['f']] #Subclass is a list for every ship, so that role changes or additions can be handled using the "Ship Editor" function without needing an additional check to see if Subclass is a list object
     },
     'Avenger Titan':{
         'Size':hullsize['1'],
         'Class':classes['ca'],
-        'Subclass':subclasses['f']
+        'Subclass':[subclasses['f']]
     },
     'Avenger Titan Renegade':{
         'Size':hullsize['1'],
         'Class':classes['ca'],
-        'Subclass':subclasses['f']
+        'Subclass':[subclasses['f']]
     },
-    'Avenger Trainer':'No Data', #This is not a consumer-available ship
     'Avenger Warlock':{
         'Size':hullsize['1'],
         'Class':classes['co'],
         'Subclass':[subclasses['e'],
-        subclasses['i'],
-        subclasses['f']]
+                    subclasses['i'],
+                    subclasses['f']]
     },
-    'Cutter':'No Data', #This is a sub-module of the Reclaimer
     'Eclipse':{
         'Size':hullsize['1'],
         'Class':classes['co'],
         'Subclass':[subclasses['b'],
-        subclasses['s']]
+                    subclasses['s']]
     },
     'Gladius':{
         'Size':hullsize['1'],
         'Class':classes['co'],
-        'Subclass':subclasses['f']
+        'Subclass':[subclasses['f']]
     },
     'Gladius Valiant':{
         'Size':hullsize['1'],
         'Class':classes['co'],
-        'Subclass':subclasses['f']
+        'Subclass':[subclasses['f']]
     },
     'Hammerhead':{
         'Size':hullsize['3'],
         'Class':classes['co'],
         'Subclass':[subclasses['d'],
-        subclasses['p']]
+                    subclasses['p']]
     },
     'Idris-K':{
         'Size':hullsize['3'],
         'Class':classes['co'],
         'Subclass':[subclasses['c'],
-        subclasses['d']]
+                    subclasses['d']]
     },
     'Idris-M':{
         'Size':hullsize['3'],
         'Class':classes['co'],
         'Subclass':[subclasses['c'],
-        subclasses['d']]
+                    subclasses['d']]
     },
     'Idris-P':{
         'Size':hullsize['3'],
         'Class':classes['co'],
         'Subclass':[subclasses['c'],
-        subclasses['d']]
+                    subclasses['d']]
     },
     'Javelin':{
         'Size':hullsize['3'],
         'Class':classes['co'],
         'Subclass':[subclasses['j'],
-        subclasses['d']]
+                    subclasses['d']]
     },
     'Nautilus':{
-        'Size':
+        'Size':hullsize['2'],
+        'Class':classes['co'],
+        'Subclass':[]
     },
     'Reclaimer':{
-
+        'Size':hullsize['3'],
+        'Class':classes['s'],
+        'Subclass':[]
     },
     'Redeemer':{
-
+        'Size':hullsize['2'],
+        'Class':classes['co'],
+        'Subclass':[subclasses['p']]
     },
     'Retaliator':{
-
-    },
-    'Retaliator Bomber':{
-
+        'Size':hullsize['2'],
+        'Class':classes['co'],
+        'Subclass':[subclasses['b']]
     },
     'Sabre':{
-
+        'Size':hullsize['1'],
+        'Class':classes['co'],
+        'Subclass':[subclasses['f'],
+                    subclasses['s']]
     },
     'Sabre Comet':{
-
+        'Size':hullsize['1'],
+        'Class':classes['co'],
+        'Subclass':[subclasses['f'],
+                    subclasses['s']]
     },
     'Sabre Raven':{
-
+        'Size':hullsize['1'],
+        'Class':classes['co'],
+        'Subclass':[subclasses['f'],
+                    subclasses['e'],
+                    subclasses['s']]
     },
     'Vanguard Harbinger':{
-
+        'Size':hullsize['2'],
+        'Class':classes['co'],
+        'Subclass':[subclasses['f'],
+                    subclasses['b']]
     },
     'Vanguard Hoplite':{
-
+        'Size':hullsize['2'],
+        'Class':classes['co'],
+        'Subclass':[subclasses['f'],
+                    subclasses['p']]
     },
     'Vanguard Sentinel':{
-
+        'Size':hullsize['2'],
+        'Class':classes['d'],
+        'Subclass':[subclasses['f']]
     },
     'Vanguard Warden':{
-
+        'Size':hullsize['2'],
+        'Class':classes['co'],
+        'Subclass':[subclasses['f']]
     },
     'Vulcan':{
-
+        'Size':hullsize['1'],
+        'Class':classes['re'],
+        'Subclass':[]
     }
-
 }
 #------------------------------------
 #Anvil Ship Data
@@ -197,10 +222,6 @@ anvil_dict = {
     'Crucible':{
 
     },
-    'DireHawk':'No Data',
-    'F7A':'No Data',
-    'F7A Hornet Mk II':'No Data',
-    'F7A-R Hornet Tracker':'No Data',
     'F7C Hornet':{
 
     },
@@ -216,7 +237,6 @@ anvil_dict = {
     'F7C-S Hornet Ghost':{
 
     },
-    'F8A Lightning':'No Data',
     'F8C Lightning':{
 
     },
@@ -232,8 +252,6 @@ anvil_dict = {
     'Hurricane':{
 
     },
-    'ShadowHawk':'No Data',
-    'T8A Gladiator':'No Data',
     'Terrapin':{
 
     },
@@ -249,12 +267,7 @@ aopoa_dict = {
     },
     'Nox':{
 
-    },
-    'Nox Kue':{
-
-    },
-    'Qhire Khartu':'No Data',
-    "San'tok.yal":'No Data'
+    }
 }
 #------------------------------------
 #Argo Ship Data
@@ -271,7 +284,6 @@ argo_dict = {
     'MPUV-1S':{
 
     },
-    'OUC':'No Data',
     'SRV':{
 
     }
@@ -323,11 +335,9 @@ crusader_dict = {
     'C2 Hercules':{
 
     },
-    'Genesis Starhunter':'No Data',
     'Genesis Starliner':{
 
     },
-    'Genesis Starseeker':'No Data',
     'M2 Hercules':{
 
     },
@@ -356,10 +366,7 @@ drake_dict = {
     'Cutlass Red':{
 
     },
-    'Dragonfly Black':{
-
-    },
-    'Dragonfly Yellow':{
+    'Dragonfly':{
 
     },
     'Herald':{
@@ -541,7 +548,6 @@ rsi_dict = {
     'Aurora MR':{
 
     },
-    'Bengal':'No Data',
     'Constellation Andromeda':{
 
     },
@@ -560,11 +566,15 @@ rsi_dict = {
     'Orion':{
 
     },
-    'Pegasus':'No Data',
     'Polaris':{
 
     }
 }
+#------------------------------------
+def revise_shiplist():
+#Control Block
+    
+
 #------------------------------------
 #Module Imports
 #General tools
@@ -576,6 +586,7 @@ import os
 import matplotlib.pyplot as plt 
 import seaborn as sbn
 #------------------------------------
+
 #Master Exporter Function
 def create_shiplist():
     #Define global variables:
