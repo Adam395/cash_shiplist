@@ -208,19 +208,28 @@ aegis_dict = {
 #Anvil Ship Data
 anvil_dict = {
     'Arrow':{
-
+        'Size':hullsize['1'],
+        'Class':classes['co'],
+        'Subclass':['f']
     },
     'C8 Pisces':{
-
+        'Size':hullsize['1'],
+        'Class':classes['e'],
+        'Subclass':[subclasses['p']]
     },
     'C8X Pisces Expedition':{
-
+        'Size':hullsize['1'],
+        'Class':classes['e'],
+        'Subclass':[subclasses['p']]
     },
     'Carrack':{
-
+        'Size':hullsize['3'],
+        'Class':classes['e'],
+        'Subclass':[subclasses['j']]
     },
     'Crucible':{
-
+        'Size':hullsize['3'],
+        ''
     },
     'F7C Hornet':{
 
